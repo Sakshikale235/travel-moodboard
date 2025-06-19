@@ -1,6 +1,7 @@
-# travel-moodboard
-✈️ A vibrant, animated landing page for dream destinations – built with React, Tailwind CSS, Framer Motion, and AOS. Featuring custom loader, dark/light mode, video, testimonials, and scroll animations.
 # ✈️ Travel Moodboard
+
+A vibrant, animated landing page for dream destinations – built with React, Tailwind CSS, Framer Motion, and AOS.  
+Featuring a custom loader, dark/light mode, travel video, testimonials, and scroll animations.
 
 **Live Site** 👉 [cool-kheer-bc142b.netlify.app](https://cool-kheer-bc142b.netlify.app)
 
@@ -35,4 +36,45 @@ This project focuses on clean UI, animated experiences, and a strong front-end s
 ---
 
 ## 📂 Folder Overview
+project/
+├── public/
+│ └── loader assets, images
+├── src/
+│ ├── components/
+│ │ ├── LoadingScreen.tsx
+│ │ ├── Hero.tsx
+│ │ ├── Destinations.tsx
+│ │ ├── Testimonials.tsx
+│ │ └── ...
+│ └── App.tsx
+├── tailwind.config.js
+└── vite.config.ts
+
+---
+
+## 📌 Deployment
+
+Deployed on **Netlify**  
+➡️ [Visit Site](https://cool-kheer-bc142b.netlify.app)
+
+---
+
+## 💡 Why This Project?
+
+This project was built to:
+- Practice advanced UI animations
+- Explore scroll-triggered transitions
+- Create a clean and engaging one-page site
+
+---
+
+## 🙋‍♀️ Author
+
+Made with ❤️ by **Sakshi Kale**
+
+---
+
+## 📌 License
+
+This project is open-source. Feel free to clone, remix, or use the template!
 
